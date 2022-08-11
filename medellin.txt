@@ -1,2 +1,8 @@
-gente linda
+  gente linda
+
+ciudad pequeña
+<<<<<<< HEAD
 ciudad de pablo escobar
+=======
+La ciudad de pablo escobar
+>>>>>>> af50088520bb22b86fc6ed8d6f28bc4dac1441e7
